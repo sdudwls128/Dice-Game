@@ -1,1 +1,1 @@
-"# Diec-Game" 
+# Dice Game
